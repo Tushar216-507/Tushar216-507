@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋  <br><br>- 💻 I’m currently working on a stock trading app with real-time data and AI-based suggestions.  <br>- 🤝 I’m looking to collaborate on open-source projects related to finance, Flutter, or ML.  <br>- 🛠️ I’m looking for help with backend optimization.<br>- 📚 I’m currently learning advanced machine learning, FastAPI, and system design.  <br>- 💬 Ask me about Flutter, Python, Artificial Intelligence<br><br>
+### Hi there 👋  <br><br>- 💻 I’m currently working on with multiple projects for organization with real-time data and AI-based suggestions.  <br>- 🤝 I’m looking to collaborate on open-source projects related to Ai  <br>- 🛠️ I’m looking for help with backend optimization.<br>- 📚 I’m currently learning Artificial Intelligence, FastAPI,Multi-Agent RAG systems and system design.  <br>- 💬 Ask me about Python, Artificial Intelligence<br><br>
 
 
 ## 🌐 Socials:
